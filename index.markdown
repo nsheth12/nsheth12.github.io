@@ -24,9 +24,8 @@ list_title: Blog
 
 I'm Nihar, and I'm an undergrad at the [University of Southern California](https://www.usc.edu/). Although I study CS, my interests lie in both technology and investing.
 
-In the past, I've interned at:
-- [Google](https://careers.google.com/), where I worked on data quarantining for GDPR compliance on the Travel team
-- [Two Sigma](https://www.twosigma.com/), where I built pre-processing systems for TS's vast droves of financial data
-- [Topline Capital](https://toplinecapital.com/), where I researched nano-cap and micro-cap stocks.
+In the past, I've interned at [Google](https://careers.google.com/), where I worked on data quarantining for GDPR compliance on the Travel team, [Two Sigma](https://www.twosigma.com/), where I built pre-processing systems for TS's vast droves of financial data, and [Topline Capital](https://toplinecapital.com/), where I analyzed nano-cap and micro-cap stocks, talked with management teams, and otherwise learned a ton about investing.
 
 Right now (as of 7-18-2020), I'm interning at [Instabase](https://news.crunchbase.com/news/instabase-raises-massive-105m-series-b-reaches-unicorn-status/).
+
+Please feel free to reach out using any of the channels listed at the bottom of this page!
