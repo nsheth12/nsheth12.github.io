@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thoughts
+title: My Thoughts
 permalink: /thoughts/
 ---
 
